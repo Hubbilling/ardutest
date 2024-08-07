@@ -1,3 +1,9 @@
+//Hubbilling
+//ArduinoTestWork.ino
+//07.08.2024
+//Board: Arduino UNO
+//IDE: Arduino IDE
+
 #include <EEPROM.h>
 
 void workWithEEPROM(String input);
